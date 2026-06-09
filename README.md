@@ -69,11 +69,15 @@ i respond to messages — [swarajdutta03@gmail.com](mailto:swarajdutta03@gmail.c
 <br>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swarajduttacv&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="github streak" />
+<a href="https://github.com/swarajduttacv">
+<img src="https://github-readme-stats.vercel.app/api?username=swarajduttacv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" alt="github stats" />
+</a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajduttacv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="top languages" />
+<a href="https://github.com/swarajduttacv">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajduttacv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="top languages" />
+</a>
 </p>
 
 </details>
