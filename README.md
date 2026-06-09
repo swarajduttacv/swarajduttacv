@@ -9,7 +9,7 @@ i think the best software doesn't just work — it changes how people make decis
 
 ---
 
-#### 🔨 stuff i've built
+#### 🔨🤓 stuff i've built
 
 | project | what it does | stack |
 |---------|-------------|-------|
