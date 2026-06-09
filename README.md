@@ -14,13 +14,13 @@ i think the best software doesn't just work — it changes how people make decis
 
 | project | what it does | stack | live |
 |---------|-------------|-------|------|
-| [**dokucreator**](https://github.com/swarajduttacv/dokucreator) | ai-powered data visualization & report automation platform. paste data, get charts, slides, and reports — instantly. | react · vite · gemini api · recharts | [→ demo](https://dokucreator.vercel.app) |
+| [**dokucreator**](https://github.com/swarajduttacv/dokucreator) | ai-powered data visualization & report automation platform. paste data, get charts, slides, and reports — instantly. | react · vite · gemini api · recharts | [demo](https://dokucreator.vercel.app) |
 | [**dokucreator-backend**](https://github.com/swarajduttacv/dokucreator-backend) | auth, storage, and api layer powering dokucreator. handles user sessions, saved content, and data persistence. | node.js · express · mongodb · render | — |
-| [**zero**](https://github.com/swarajduttacv/zero) | algorithmic trading system for indian equities. real-time sentiment analysis + automated execution via kite api. | typescript · kite api · llm integration | [→ demo](https://zero-virid.vercel.app) |
-| [**documind**](https://github.com/swarajduttacv/dm) | personal ai document assistant — upload ids, certificates, notes, then chat with your docs and auto-fill forms via gemini vision. | react · vite · gemini 2.5 flash | [→ demo](https://dm-2-ten.vercel.app) |
+| [**zero**](https://github.com/swarajduttacv/zero) | algorithmic trading system for indian equities. real-time sentiment analysis + automated execution via kite api. | typescript · kite api · llm integration | [demo](https://zero-virid.vercel.app) |
+| [**documind**](https://github.com/swarajduttacv/dm) | personal ai document assistant — upload ids, certificates, notes, then chat with your docs and auto-fill forms via gemini vision. | react · vite · gemini 2.5 flash | [demo](https://dm-2-ten.vercel.app) |
 | [**aria**](https://github.com/swarajduttacv/ARIA-ai-talent-acquisition-assistant) | ai talent acquisition assistant — parses resumes, ranks candidates, runs chatbot assessments. | javascript · nlp · rest apis | — |
-| [**edu-agent-pipeline**](https://github.com/swarajduttacv/edu-agent-pipeline) | multi-agent ai pipeline for educational content processing and knowledge extraction. | python · langchain · agents | [→ demo](https://edu-agent-pipeline-pyzdvjpgcwejhmdpv8q2f2.streamlit.app) |
-| [**ai-pitch-reviewer**](https://github.com/swarajduttacv/pitch2.0) | ai-powered pitch deck analyzer — scores clarity, storytelling, and investor-readiness. | react · vite · gemini api · typescript | [→ demo](https://pitch2-three.vercel.app) |
+| [**edu-agent-pipeline**](https://github.com/swarajduttacv/edu-agent-pipeline) | multi-agent ai pipeline for educational content processing and knowledge extraction. | python · langchain · agents | [demo](https://edu-agent-pipeline-pyzdvjpgcwejhmdpv8q2f2.streamlit.app) |
+| [**ai-pitch-reviewer**](https://github.com/swarajduttacv/pitch2.0) | ai-powered pitch deck analyzer — scores clarity, storytelling, and investor-readiness. | react · vite · gemini api · typescript | [demo](https://pitch2-three.vercel.app) |
 
 ---
 
