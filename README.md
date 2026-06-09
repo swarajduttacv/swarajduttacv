@@ -16,6 +16,7 @@ i think the best software doesn't just work — it changes how people make decis
 | [**documind**](https://github.com/swarajduttacv/dm) | personal ai document assistant — upload ids, certificates, notes, then chat with your docs and auto-fill forms via gemini vision. | react · vite · gemini 2.5 flash |
 | [**aria**](https://github.com/swarajduttacv/ARIA-ai-talent-acquisition-assistant) | ai talent acquisition assistant — parses resumes, ranks candidates, runs chatbot assessments. | javascript · nlp · rest apis |
 | [**edu-agent-pipeline**](https://github.com/swarajduttacv/edu-agent-pipeline) | multi-agent ai pipeline for educational content processing and knowledge extraction. | python · langchain · agents |
+| [**ai-pitch-reviewer**](https://github.com/swarajduttacv/pitch) | ai-powered pitch deck analyzer — scores clarity, storytelling, and investor-readiness. | coming soon |
 
 ---
 
@@ -67,8 +68,12 @@ i respond to messages — [swarajdutta03@gmail.com](mailto:swarajdutta03@gmail.c
 <summary>📈 github stats</summary>
 <br>
 
-![swaraj's github stats](https://github-readme-stats.vercel.app/api?username=swarajduttacv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swarajduttacv&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="github streak" />
+</p>
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swarajduttacv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajduttacv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="top languages" />
+</p>
 
 </details>
