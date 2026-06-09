@@ -65,22 +65,3 @@ long-term: MBA → tech leadership at the intersection of engineering and busine
 
 i respond to messages — [swarajdutta03@gmail.com](mailto:swarajdutta03@gmail.com) · [linkedin](https://www.linkedin.com/in/swaraj-dutta-712b1128a/)
 
----
-
-<details>
-<summary>📈 github stats</summary>
-<br>
-
-<p align="center">
-<a href="https://github.com/swarajduttacv">
-<img src="https://github-readme-stats.vercel.app/api?username=swarajduttacv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" alt="github stats" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/swarajduttacv">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajduttacv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="top languages" />
-</a>
-</p>
-
-</details>
