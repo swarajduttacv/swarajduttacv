@@ -20,7 +20,7 @@ i think the best software doesn't just work — it changes how people make decis
 | [**documind**](https://github.com/swarajduttacv/dm) | personal ai document assistant — upload ids, certificates, notes, then chat with your docs and auto-fill forms via gemini vision. | react · vite · gemini 2.5 flash |
 | [**aria**](https://github.com/swarajduttacv/ARIA-ai-talent-acquisition-assistant) | ai talent acquisition assistant — parses resumes, ranks candidates, runs chatbot assessments. | javascript · nlp · rest apis |
 | [**edu-agent-pipeline**](https://github.com/swarajduttacv/edu-agent-pipeline) | multi-agent ai pipeline for educational content processing and knowledge extraction. | python · langchain · agents |
-| [**ai-pitch-reviewer**](https://github.com/swarajduttacv/pitch](https://github.com/swarajduttacv/pitch2.0)) | ai-powered pitch deck analyzer — scores clarity, storytelling, and investor-readiness. | coming soon |
+| [**ai-pitch-reviewer**](https://github.com/swarajduttacv/pitch2.0) | ai-powered pitch deck analyzer — scores clarity, storytelling, and investor-readiness. | coming soon |
 
 ---
 
