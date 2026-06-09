@@ -64,5 +64,5 @@ domains      fintech · remote sensing · data viz · report automation
 targeting **business analyst · data analyst · product management** roles for campus placements (2027).  
 long-term: MBA → tech leadership at the intersection of engineering and business.
 
-i respond to messages — [swarajdutta03@gmail.com](mailto:swarajdutta03@gmail.com) · [linkedin](https://www.linkedin.com/in/swaraj-dutta-712b1128a/)
+i respond pretty quickly to messages — [swarajdutta03@gmail.com](mailto:swarajdutta03@gmail.com) · [linkedin](https://www.linkedin.com/in/swaraj-dutta-712b1128a/)
 
