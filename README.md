@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="300" alt="swaraj dutta banner" src="./assets/banner.png" />
+<img width="1200" height="300" alt="swaraj dutta banner" src="./assets/bannerr.png" />
 </div>
 ### hey, i'm swaraj 👋
 
