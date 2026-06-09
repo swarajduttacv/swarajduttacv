@@ -2,9 +2,8 @@
 <img width="1200" height="300" alt="swaraj dutta banner" src="./assets/bannerr.png" />
 </div>
 
-
-
 hey, i'm swaraj 👋
+
 i'm a cs undergrad at IEM Kolkata who builds things that sit between **code and business logic** — report automation pipelines, algorithmic trading systems, and research tools for satellite imagery.
 
 i think the best software doesn't just work — it changes how people make decisions.
